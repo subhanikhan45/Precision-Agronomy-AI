@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+opencv-python
+xgboost
+scikit-learn
+numpy
+pandas
+requests
+fpdf
+Pillow
